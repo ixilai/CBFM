@@ -1,4 +1,4 @@
-# CBFM
+# CBFM: Contrast Balance Infrared and Visible Image Fusion Based on Contrast-Preserving Guided Filter
 This package contains the matlab code which is associated with the following paper:
 
 Xilai Li, Xiaosong Li, Wuyang Liu. CBFM: Contrast Balance Infrared and Visible Image Fusion Based on Contrast-Preserving Guided Filter[J]. remote sensing.
